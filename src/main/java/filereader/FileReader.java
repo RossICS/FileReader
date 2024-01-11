@@ -18,6 +18,7 @@ public class FileReader {
         java.io.FileReader in;
         BufferedReader readFile;
         String lineOfText;
+        int age;
 
         try {
             in = new java.io.FileReader(textFile);
