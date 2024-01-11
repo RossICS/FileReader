@@ -11,6 +11,7 @@ import java.io.*;
 public class FileReader {
 
     /**
+     * This is the main method
      * @param args the command line arguments
      */
     public static void main(String[] args) {
